@@ -139,9 +139,13 @@ Hybrid quantum–classical cryptographic architectures provide a **practical tra
 
 ## 👥 Team
 
+- Muhammad Osama
+- Huma Sabir  
+- Safoora Rana  
 - Syed Aamir Abbas  
 - Javeria Ashfaq  
-- Huma Sabir  
-- Muhammad Osama  
-- Safoora Rana  
 - Fatima Afzal
+  
+## 👥 Mentors
+- Dr. Malik Ahmad
+- Dr. Shakir ullah
