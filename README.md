@@ -41,15 +41,24 @@ The system consists of three main modules.
 This module simulates the **BB84 quantum key distribution protocol** to generate a shared secret key between Alice and Bob.
 
 Example transmission process:
+**Alice Bits**
+
 [1, 1, 1, 1, 1, 0, 0, 1]
 
 **Alice Bases**
+
 [Z, Z, Z, Z, Z, X, X, Z]
+
 **Bob Bases**
+
 [X, Z, Z, X, Z, X, X, X]
+
 **Bob Measurements**
+
 [0, 1, 1, 1, 1, 0, 0, 1]
+
 **Shared Key after Basis Matching**
+
 [1, 1, 1, 0, 0]
 
 
@@ -136,8 +145,3 @@ Hybrid quantum–classical cryptographic architectures provide a **practical tra
 - Muhammad Osama  
 - Safoora Rana  
 - Fatima Afzal
-
-
-
-**Alice Bits**
-
